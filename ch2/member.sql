@@ -10,3 +10,5 @@ email varchar2(50) not null
 insert into member values('hong123','hong1230','홍길동','남','hong123@gmail.com');
 
 select * from MEMBER;
+
+alter table member modify (gender nvarchar2(10));

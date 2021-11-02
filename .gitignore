@@ -7,9 +7,10 @@
 Servers/
 ch1/.gitignore
 ch2/.gitignore
+jdbc/.gitignore
 ch1/src/main/webapp/META-INF/
 ch2/src/main/webapp/META-INF/
-
+jdbc/src/main/webapp/META-INF
 
 ### Eclipse ###
 .metadata
